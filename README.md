@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Business Consultant, Musician, Artist and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I'm updating as I go, sometimes I forget to update my github
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content/film/screenplay creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -97,12 +97,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://ketchuponpizza.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/ketchuponpizza
+[youtube]: https://youtube.com/ketchuponpizza
+[instagram]: https://instagram.com/ketchuponpizza1
+[linkedin]: https://linkedin.com/in/alexjacobo
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
