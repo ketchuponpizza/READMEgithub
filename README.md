@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex J - aka [ketchuponpizza][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ketchuponpizza.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fketchuponpizza&screen_name=ketchonpizza)
 
 ## I'm a Developer, Business Consultant, Musician, Artist and Teacher!!
 
@@ -82,7 +82,6 @@
 </details>
 
 [website]: https://ketchuponpizza.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/ketchuponpizza
 [youtube]: https://youtube.com/ketchuponpizza
 [instagram]: https://instagram.com/ketchuponpizza1
