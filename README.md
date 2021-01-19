@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex J - aka [ketchuponpizza][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ketchuponpizza.com)
+[![Website](https://img.shields.io/website?label=ketchuponpizza.com&style=for-the-badge&url=https%3A%2F%2Fketchuponpizza.com)](https://ketchuponpizza.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fketchuponpizza&screen_name=ketchonpizza)
 
 ## I'm a Developer, Business Consultant, Musician, Artist and Teacher!!
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ketchuponpizza Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -77,7 +77,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.ketchuponpizza.vercel.app/api?username=ketchuponpizza&show_icons=true&hide_border=true" />
 
 </details>
 
