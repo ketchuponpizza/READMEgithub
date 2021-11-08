@@ -57,7 +57,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [>~greetings](https://dev.to/ketchuponpizza/greetings-k9c)
+- [&gt;~greetings](https://dev.to/ketchuponpizza/greetings-k9c)
 <!-- BLOG-POST-LIST:END -->
 
 
